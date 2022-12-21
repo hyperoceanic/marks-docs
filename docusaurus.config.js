@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Marks Docs',
   tagline: 'I wrote some stuff',
-  url: 'https://hyperoceanic.github.io/marks-docs/',
-  baseUrl: '/',
+  url: 'https://hyperoceanic.github.io/',
+  baseUrl: 'marks-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
