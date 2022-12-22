@@ -86,8 +86,8 @@ const config = {
       footer: {
         links: [
           {
-            label: 'Stack Overflow',
-            href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+            label: 'Email',
+            mailto: 'mark.smith@hyperoceanic.com',
           },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Mark Smith. Built with Docusaurus.`,
