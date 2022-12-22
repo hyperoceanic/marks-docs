@@ -4,7 +4,7 @@
         <title>Marks Docs Blog</title>
         <link>https://hyperoceanic.github.io/marks-docs/blog</link>
         <description>Marks Docs Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://hyperoceanic.github.io/marks-docs/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Welcome to my web site and blog. I've set up this web site to be home to a collection of software-development related documents I have worked on over the past few years. They cover tech, but there's a strong emphasis on projects, process and teams as well.]]></description>
             <content:encoded><![CDATA[<p>Welcome to my web site and blog. I've set up this web site to be home to a collection of software-development related documents I have worked on over the past few years. They cover tech, but there's a strong emphasis on projects, process and teams as well.</p><p>As I publish and update them, I will post a note here in the blog.</p>]]></content:encoded>
             <category>hello</category>

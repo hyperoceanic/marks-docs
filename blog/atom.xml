@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hyperoceanic.github.io/marks-docs/blog</id>
     <title>Marks Docs Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-12-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hyperoceanic.github.io/marks-docs/blog"/>
     <subtitle>Marks Docs Blog</subtitle>
@@ -11,11 +11,12 @@
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
         <link href="https://hyperoceanic.github.io/marks-docs/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
+        <updated>2022-12-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Welcome to my web site and blog. I've set up this web site to be home to a collection of software-development related documents I have worked on over the past few years. They cover tech, but there's a strong emphasis on projects, process and teams as well.]]></summary>
         <content type="html"><![CDATA[<p>Welcome to my web site and blog. I've set up this web site to be home to a collection of software-development related documents I have worked on over the past few years. They cover tech, but there's a strong emphasis on projects, process and teams as well.</p><p>As I publish and update them, I will post a note here in the blog.</p>]]></content>
         <author>
             <name>Mark Smith</name>
+            <uri>/about</uri>
         </author>
         <category label="hello" term="hello"/>
         <category label="docusaurus" term="docusaurus"/>
