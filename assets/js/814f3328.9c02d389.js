@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmarks_docs=self.webpackChunkmarks_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/marks-docs/blog/welcome"}]}')}}]);
