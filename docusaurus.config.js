@@ -63,9 +63,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -73,23 +73,22 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            to: '/about',
+            label: 'About',
+            position: 'right',
+          },
+          {
+            to: '/contact',
+            label: 'Contact',
             position: 'right',
           },
         ],
       },
       footer: {
-        links: [
-          {
-            label: 'Email',
-            mailto: 'mark.smith@hyperoceanic.com',
-          },
-        ],
         copyright: `Copyright © ${new Date().getFullYear()} Mark Smith. Built with Docusaurus.`,
       },
       prism: {
