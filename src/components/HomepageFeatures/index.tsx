@@ -23,27 +23,26 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Tech',
-    link: '/docs/category/tech',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
-    ),
-  },
-  {
     title: 'Process',
     link: '/docs/category/process',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Agile, Extreme, Kanban. Waterfall or Rational.
       </>
     ),
   },
+  {
+    title: 'Tech',
+    link: '/docs/category/technology',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        Mainly focused around .net
+      </>
+    ),
+  },
+
 ];
 
 function Feature({ title, Svg, description, link }: FeatureItem) {
