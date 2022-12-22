@@ -1,22 +1,10 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [mark]
+tags: [hello, docusaurus]
 ---
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Welcome to my web site and blog. I've set up this web site to be home to a collection of software-development related documents I have worked on over the past few years. They cover tech, but there's a strong emphasis on projects, process and teams as well.
 
-A blog post folder can be convenient to co-locate blog post images:
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+As I publish and update them, I will post a note here in the blog.
