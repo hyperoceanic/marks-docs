@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmarks_docs=self.webpackChunkmarks_docs||[]).push([[8593],{6309:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/marks-docs/blog/tags/facebook","allTagsPath":"/marks-docs/blog/tags","count":1}')}}]);
