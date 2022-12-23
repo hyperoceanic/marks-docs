@@ -12,7 +12,7 @@ This is a combined guide/checklist for onboarding new members into software deve
 
 For many years I was a contractor which meant joining new organizations quite frequently. I had a mixed bag of onboarding experiences during that time, and generally the subsequent work experience followed the impression gained during onboarding.
 
-As a tech/team lead or scrum master I've been on the other side of the equation a few times as well, bringing in a mix of junior, senior and contract developers and testers into my team and the organisation I was working for.
+As a tech/team lead or scrum master I've been on the other side of the equation a few times as well, bringing in a mix of junior, senior and contract developers and testers into my team and the organization I was working for.
 
 I have tried to do a decent job and got some recognition for the quality of onboarding my teams provided, especially for recent graduates and new entrants to the industry*  
 
@@ -32,7 +32,7 @@ A good onboarding plan can help the new joiner get a grasp on the above.
 
 
 :::tip Working with Human Resources
-A good relationship with HR can smooth the onboarding path considerably* Their goals and yours are aligned on getting the new person inducted into the organisation as quickly as possible* Like you they're overloaded with work, and you're much better off owning as much of the process as you can.
+A good relationship with HR can smooth the onboarding path considerably* Their goals and yours are aligned on getting the new person inducted into the organization as quickly as possible* Like you they're overloaded with work, and you're much better off owning as much of the process as you can.
 :::
 
 :::note The Materials List
@@ -117,8 +117,8 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 
 * Informal chat with onboarding buddy to identify any areas that need looking into.
 * Run those review sessions! Do them away from the team - these are 1:1s after all.
-* Go over in a bit more detail how your team fits into the organisation
-  * Team OKRs can be herlpful here, if your organisation is making effective use of them
+* Go over in a bit more detail how your team fits into the organization
+  * Team OKRs can be helpful here, if your organization is making effective use of them
 * How your current work fits into that picture.
 * Keep an eye on that 'first task' to make sure there are no extraneous items blocking progress.
 
@@ -140,7 +140,7 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 
 * Review the month with the new starter
 * Get feedback on the process from them
-* Review how they're dealing with their 'one job'* Quality, timeliness* If it is working out then plan to add some non-core stuff to get them started on their pathway within the organisation.
+* Review how they're dealing with their 'one job'* Quality, timeliness* If it is working out then plan to add some non-core stuff to get them started on their pathway within the organization.
 
 ## Making sure it's all working out
 

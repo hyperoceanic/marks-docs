@@ -18,7 +18,8 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Humans, eh? When I started out, little did I suspect that the biggest
-        factor in a spftware project was the people involved.
+        factor dictating the success or failure of a software project was how
+        well the people involved worked together.
       </>
     ),
   },
