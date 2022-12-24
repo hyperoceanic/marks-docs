@@ -7,7 +7,7 @@ Revision:  0.02
 # Onboarding
 
 :::note
-This is a combined guide/checklist for onboarding new members into software development teams* Some of it is more relevant to 'in the office' vs working from home* Other parts are more relevant for more junior developers.
+This is a combined guide/checklist for onboarding new members into software development teams. Some of it is more relevant to 'in the office' vs working from home* Other parts are more relevant for more junior developers.
 :::
 
 For many years I was a contractor which meant joining new organizations quite frequently. I had a mixed bag of onboarding experiences during that time, and generally the subsequent work experience followed the impression gained during onboarding.
@@ -93,7 +93,7 @@ The goal for this week is to keep the new person on the "glide path" to day 1.
 TIP: Your day 1 all about setting your new team member up for success, building on th prep work you did already.
 
 * Meet new person at the agreed location* (HR might manage the 'welcome' experience.) If possible arrive a few minutes early - they might be early or possibly late depending on their new commute experience* You on the other hand..* Bring something to keep yourself busy if necessary.
-* Get whatever goodies from HR are needed* If there's a security fob go and check it and make sure the new joiner knows how it works for the car park, the building and the office / level.
+* Get whatever goodies from HR are needed. If there's a security fob go and check it and make sure the new joiner knows how it works for the car park, the building and the office / level.
 * **Introduce them to the team**, on your way to reviewing the materials list.
 * Talk about your teams cadences - when and where you hold scrum ceremonies, or your equivalent.
 * Go through The Materials List.
@@ -101,7 +101,7 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 * Arrange a twice-daily 30 minute catch up session - first thing and last thing* High-frequency 1:1s* Book a room.
 * Review their calendar with them, making sure you've invited them to all of the repeating items they need to be at.
 * Review your 'first task' that you worked out last week, with them and their onboarding buddy, who will ideally be able to pair with them on it* Make sure that the buddy knows they're taking the back seat.
-* Set the goal of completing all of the HR stuff that the new joiner needs to do* There will be several hours worth of videos to watch.
+* Set the goal of completing all of the HR stuff that the new joiner needs to do. There will be several hours worth of videos to watch.
 * Feed back up the totem pole regarding how day 1 went.
 
 ## Day 2
