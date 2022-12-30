@@ -14,7 +14,9 @@ For many years I was a contractor which meant joining new organizations quite fr
 
 As a tech/team lead or scrum master I've been on the other side of the equation a few times as well, bringing in a mix of junior, senior and contract developers and testers into my team and the organization I was working for.
 
-I have tried to do a decent job and got some recognition for the quality of onboarding my teams provided, especially for recent graduates and new entrants to the industry*  
+I have tried to do a decent job and got some recognition for the quality of onboarding my teams provided, especially for recent graduates and new entrants to the industry.
+
+One key idea I've carried with me is that the first couple of weeks for a new hire set the tenor of their time with your team. If you want them to be proactive, it's your job to get them on the path to contributing early on.
 
 ## Why onboarding matters
 
