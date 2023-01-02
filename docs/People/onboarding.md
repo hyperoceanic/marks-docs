@@ -52,7 +52,7 @@ This is a list of everything you're going to give or send your new joiner
   * Your Jira board or equivalent
   * Repo and build system for the current project
   * Production monitoring tools
-  * A list of all the slack channels they need on day one and a list of all the slack channels they'll need later* Be ruthless about keeping stuff out of list 1.
+  * A list of all the slack channels they need on Day one and a list of all the slack channels they'll need later. Be ruthless about keeping stuff out of the Day one list.
   * Your review and deployment process
   * Visual Studio subscription if necessary.
 :::
@@ -100,11 +100,12 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 * Talk about your teams cadences - when and where you hold scrum ceremonies, or your equivalent.
 * Go through The Materials List.
 * Make sure they've got access to all the relevant systems, with them.
-* Arrange a twice-daily 30 minute catch up session - first thing and last thing* High-frequency 1:1s* Book a room.
+* Arrange a twice-daily 30 minute catch up session - first thing and last thing. High-frequency 1:1s. Book a room.
 * Review their calendar with them, making sure you've invited them to all of the repeating items they need to be at.
-* Review your 'first task' that you worked out last week, with them and their onboarding buddy, who will ideally be able to pair with them on it* Make sure that the buddy knows they're taking the back seat.
+* Get the Building! Obviously the details on this vary but they need to be able to get your primary product running under a debugger 'on their machine' (note to self: DevContainers!). Their onboarding buddy should be guiding them through this, from a script you have in outline in Jira and ideally as a shell/Powershell script.
+* Review your 'first task' that you worked out last week, with them and their onboarding buddy, who will ideally be able to pair with them on it. Make sure that the buddy knows they're taking the back seat.
 * Set the goal of completing all of the HR stuff that the new joiner needs to do. There will be several hours worth of videos to watch.
-* Feed back up the totem pole regarding how day 1 went.
+* Feed back up the totem pole regarding how day 1 went. 
 
 ## Day 2
 
@@ -112,6 +113,7 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 
 * First thing, handle any questions or HR business.
 * Get feedback on the process from the new starter.
+* Keep an eye on how the buddying is going.
 * Arrange for a couple of other people from the team to take them for lunch.
 * Check progress on first task.
 
@@ -123,6 +125,11 @@ TIP: Your day 1 all about setting your new team member up for success, building 
   * Team OKRs can be helpful here, if your organization is making effective use of them
 * How your current work fits into that picture.
 * Keep an eye on that 'first task' to make sure there are no extraneous items blocking progress.
+* This is a great time to do any 'nudge engineering' on your team. If you want to promote more pair programming (for instance), make sure that the new joiner does lots of pair programming. 
+
+:::note New Seniors 
+If you are bringing in a more senior team member, make sure there's some forum for them to demonstrate _why_ they are joining team. Can they contribute to code reviews, backlog refinement, estimating early on?
+:::
 
 ## End of Week 1
 
