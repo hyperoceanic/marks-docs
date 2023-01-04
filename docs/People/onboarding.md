@@ -135,7 +135,7 @@ If you are bringing in a more senior team member, make sure there's some forum f
 
 * Review the week with the new starter.
 * Review the 'first task' and confirm it got done* If not, it is on me rather than the new joiner.
-* Agree a couple of OKRs for the rest of their first month* It might be useful to review what's the 'one job' that the person has been hired to do and to schedule a review of that for the end of month 1* The goal here is to make sure you and they are aligned on what the expectation is.
+* Agree a couple of OKRs for the rest of their first month* It might be useful to review what's the 'one job' that the person has been hired to do and to schedule a review of that for the end of month 1. The goal here is to make sure you and they are aligned on what the expectation is.
 * Confirm all of the HR stuff has been dealt with
 * Make a list with them of the other stuff they need to learn* Remind them that they can use their calendar to block out time to learn and that you can help them identify the materials and people who can help.
 * Get feedback on the process from the new starter*
