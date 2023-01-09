@@ -159,7 +159,7 @@ Remember the new starter is on probation This means a couple of things:
 * Not used to the implicit stuff you and everybody else 'just seems to know'.
 * They might not be the right person for the job.
 
-At the end of every day make a list of everything that went well, and everything that went the other way* Track what you did about it* If they're not suitable you need to be able to defend every point on your list.
+At the end of every day make a list of everything that went well, and everything that went the other way. *Track what you did about it*. If they're not suitable you need to be able to defend every point on your list.
 
 ## Getting feedback on the process from the new starter
 
