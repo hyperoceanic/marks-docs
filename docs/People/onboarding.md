@@ -147,8 +147,8 @@ If you are bringing in a more senior team member, make sure there's some forum f
 
 ## End of Month 1
 
-* Review the month with the new starter
-* Get feedback on the process from them
+* Review the month with the new starter.
+* Get feedback on the process from them.
 * Review how they're dealing with their 'one job'* Quality, timeliness* If it is working out then plan to add some non-core stuff to get them started on their pathway within the organization.
 
 ## Making sure it's all working out
