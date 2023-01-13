@@ -40,10 +40,10 @@ A good relationship with HR can smooth the onboarding path considerably* Their g
 :::note The Materials List
 This is a list of everything you're going to give or send your new joiner
 
-* **Printed** maps of where everything is* Highlight the coffee area, the loos* If your team has fixed desks, write the name of everyone in your team and in the immediately adjacent ones on it* Include people 1 and 2 steps up the org chart as well.
-* Login to HR system* Give them a few minutes to check their details and how to book time off
+* **Printed** maps of where everything is. Highlight the coffee area, the loos. If your team has fixed desks, write the name of everyone in your team and in the immediately adjacent ones on it. Include people 1 and 2 steps up the org chart as well.
+* *Login to HR system* Give them a few minutes to check their details and how to book time off
 * If there are any HR-required activities here, get them done now
-* Likewise, there's going to be some online training to be done* Make sure they're aware how to get to it, what needs to be done this week and what can wait for next week or beyond.
+* Likewise, there's going to be some online training to be done. Make sure they're aware how to get to it, what needs to be done this week and what can wait for next week or beyond. You need this to be as friction-free as possible since (whilst important) it's not 
 * **Printed** copy of the team charter. You want them to focus on this early.
 * The Org Chart, with their name on it. The need to know where they fit into the organization.
 * Email with info about all the key players your team interacts with.
@@ -76,8 +76,8 @@ This is a combined checklist and reminder of when to do what. I tend to print it
 The goal for this week is to keep the new person on the "glide path" to day 1.
 
 * Check with HR who is greeting the new joiner 
-* Agree arrival Date, Time and Location* Inform HR or vice versa.
-* Confirm receipt of equipment, all setup with the candidate if they're being posted out* Otherwise check with tech.
+* Agree arrival Date, Time and Location. Inform HR or vice versa.
+* Confirm receipt of equipment, all setup with the candidate if they're being posted out. Otherwise check with tech.
 * Active Directory or other credentials?
   * Do they need an auth on their phone?
 * Is VPN Access needed / sorted? 
@@ -85,16 +85,16 @@ The goal for this week is to keep the new person on the "glide path" to day 1.
 * Review new joiners CV and LinkedIn profile.
 * Review onboarding docs from HR.
 * Prepare the materials list!
-* Send them an email to their work email address to check it doesn't bounce* Fix it if it does* This is a great chance to get an idea of their ways of working so ask about whether they're an early bird or a late arriver* Also find out about dietary requirements* You'll need this for booking team lunches etc so you might as well get it now.
-* Work out what you're going to ask them to pick up, and have in mind what information they need and where they'll get it* The goal here is for them to do some meaningful work so that they can get familiar with process, personalities and tools, so pick something relatively straightforward in nature* The goal here is that this should be 'finished' by the end of the week for whatever definition of finished you use* For my current team, the answer is 'in production'.
+* Send them an email to their work email address to check it doesn't bounce. Fix it if it does. This is a great chance to get an idea of their ways of working so ask about whether they're an early bird or a late arriver. Also find out about dietary requirements - you'll need this for booking team lunches etc so you might as well get it now.
+* Work out what you're going to ask them to pick up, and have in mind what information they need and where they'll get it. The goal here is for them to do some meaningful work so that they can get familiar with process, personalities and tools, so pick something relatively straightforward in nature. The goal here is that this should be 'finished' by the end of the week for whatever definition of finished you use. For my current team, the answer is 'in production'.
 * Remember to incorporate the new person into your sprint plan - tasks and capacity!
 * Update (again!) the team on the new hire, role and start date, and arrange with a member of your team to act as 'onboarding buddy' to help the new joiner feel at home within the team. I like to ask the person who joined last to do this, as they're often more sympathetic and can remember all the things you forgot. If they're a junior then it gives them something to put on their achievements wall.
 
 ## Day 1
 
-TIP: Your day 1 all about setting your new team member up for success, building on th prep work you did already.
+TIP: Your day 1 all about setting your new team member up for success, building on the prep work you did already.
 
-* Meet new person at the agreed location* (HR might manage the 'welcome' experience.) If possible arrive a few minutes early - they might be early or possibly late depending on their new commute experience* You on the other hand..* Bring something to keep yourself busy if necessary.
+* Meet new person at the agreed location. (HR might manage the 'welcome' experience.) If possible arrive a few minutes early - they might be early or possibly late depending on their new commute experience. You on the other hand... Bring something to keep yourself busy if necessary.
 * Get whatever goodies from HR are needed. If there's a security fob go and check it and make sure the new joiner knows how it works for the car park, the building and the office / level.
 * **Introduce them to the team**, on your way to reviewing the materials list.
 * Talk about your teams cadences - when and where you hold scrum ceremonies, or your equivalent.
@@ -109,10 +109,11 @@ TIP: Your day 1 all about setting your new team member up for success, building 
 
 ## Day 2
 
-TIP: Your day 1 all about setting your new team member up for success, building on th prep work you did already.
+TIP: Day 2 has perhaps the most crucial thing for the whole week - explaining how your build process works. 
 
 * First thing, handle any questions or HR business.
 * Get feedback on the process from the new starter.
+* Explain how you build your product. Really explain it. I'm going to write up some notes on this, so keep an eye out!
 * Keep an eye on how the buddying is going.
 * Arrange for a couple of other people from the team to take them for lunch.
 * Check progress on first task.
@@ -134,22 +135,22 @@ If you are bringing in a more senior team member, make sure there's some forum f
 ## End of Week 1
 
 * Review the week with the new starter.
-* Review the 'first task' and confirm it got done* If not, it is on me rather than the new joiner.
-* Agree a couple of OKRs for the rest of their first month* It might be useful to review what's the 'one job' that the person has been hired to do and to schedule a review of that for the end of month 1. The goal here is to make sure you and they are aligned on what the expectation is.
+* Review the 'first task' and confirm it got done. If not, it is on me rather than the new joiner.
+* Agree a couple of OKRs for the rest of their first month. It might be useful to review what's the 'one job' that the person has been hired to do and to schedule a review of that for the end of month 1. The goal here is to make sure you and they are aligned on what the expectation is.
 * Confirm all of the HR stuff has been dealt with
-* Make a list with them of the other stuff they need to learn* Remind them that they can use their calendar to block out time to learn and that you can help them identify the materials and people who can help.
-* Get feedback on the process from the new starter*
+* Make a list with them of the other stuff they need to learn. Remind them that they can use their calendar to block out time to learn and that you can help them identify the materials and people who can help.
+* Get feedback on the process from the new starter.
 * Again, feedback up the totem pole.
 
 :::tip Get Feedback
- Senior Engineers can offer valuable feedback on your onboarding process* Don't neglect to ask them for ways to improve it.
+ Senior Engineers can offer valuable feedback on your onboarding process. Don't neglect to ask them for ways to improve it.
 :::
 
 ## End of Month 1
 
 * Review the month with the new starter.
 * Get feedback on the process from them.
-* Review how they're dealing with their 'one job'* Quality, timeliness* If it is working out then plan to add some non-core stuff to get them started on their pathway within the organization.
+* Review how they're dealing with their 'one job'. Quality, timeliness. If it is working out then plan to add some non-core stuff to get them started on their pathway within the organization.
 
 ## Making sure it's all working out
 
